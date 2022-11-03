@@ -1,0 +1,122 @@
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\appsettings.Development.json
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\appsettings.json
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.exe
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.deps.json
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.runtimeconfig.json
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.runtimeconfig.dev.json
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\ref\firstapi.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\firstapi.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.csproj.AssemblyReference.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.GeneratedMSBuildEditorConfig.editorconfig
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfoInputs.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfo.cs
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.csproj.CoreCompileInputs.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cs
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\staticwebassets\firstapi.StaticWebAssets.Manifest.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\staticwebassets\firstapi.StaticWebAssets.xml
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\scopedcss\bundle\firstapi.styles.css
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.RazorTargetAssemblyInfo.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.csproj.CopyComplete
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\ref\firstapi.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\obj\Debug\net5.0\firstapi.genruntimeconfig.cache
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Humanizer.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\All S Folders\Softura\Day 17 Latest\firstapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\appsettings.Development.json
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\appsettings.json
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.exe
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.deps.json
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.runtimeconfig.json
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.runtimeconfig.dev.json
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\ref\firstapi.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\firstapi.pdb
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Humanizer.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FarePortal\demos\firstapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.csproj.AssemblyReference.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfoInputs.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.AssemblyInfo.cs
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.csproj.CoreCompileInputs.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cs
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.MvcApplicationPartsAssemblyInfo.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\staticwebassets\firstapi.StaticWebAssets.Manifest.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\staticwebassets\firstapi.StaticWebAssets.xml
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\scopedcss\bundle\firstapi.styles.css
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.RazorTargetAssemblyInfo.cache
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.csproj.CopyComplete
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.dll
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\ref\firstapi.dll
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.pdb
+F:\FarePortal\demos\firstapi\obj\Debug\net5.0\firstapi.genruntimeconfig.cache
